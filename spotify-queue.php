@@ -3,7 +3,7 @@
 Plugin Name: Spotify Queue Plugin
 Description: Erlaubt es, sich im Backend bei Spotify anzumelden und im Frontend Songs zur Spotify-Queue hinzuzufügen.
 Version: 9.17Alpha
-Author: Paul Steins
+Author: LordSteini
 */
 
 
